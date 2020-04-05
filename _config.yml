@@ -1,14 +1,14 @@
 
-title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+title: My Portfolio
+url: 'http://vedikashenoy.github.io'
+baseurl: '/vedikashenoy' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Vedika Shenoy  ## put your name
+title: 'DATA ANALYST'  ## your title
+location: Syracuse , New York
 
 
 ## Social Profiles
